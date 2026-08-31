@@ -64,10 +64,6 @@ Installation
 
 Clone the repository:
 
-bash
-git clone https://github.com/moamine11/G7-team4-AdBridgeDz-project.git
-cd G7-team4-AdBridgeDz-project
-
 Install main application dependencies:
 
 bash
